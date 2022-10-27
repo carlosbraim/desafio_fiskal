@@ -27,4 +27,6 @@ Boa sorte!
 #### **#time.sleep(1)**
    
 
-**Durante meus testes o site funcionou com o time comentado, mesmo com a execução em média de 7.000 milissegundos conforme imagem abaixo: **
+**Durante meus testes o site funcionou com o time comentado, mesmo com a execução em média de 7.000 milissegundos conforme imagem abaixo:**
+
+![Capturar](https://user-images.githubusercontent.com/9439551/198413040-2b142e88-d178-4615-b269-831d657c63c2.PNG)
